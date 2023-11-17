@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">sameer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dumy">Dumy</string>
+    <string name="alchol">Alcohol</string>
+    <string name="drinkrecpices">Drink Recipes</string>
+    <string name="margita">Margarita</string>
+    <string name="fvt">Favorite Recipes</string>
+</resources>
