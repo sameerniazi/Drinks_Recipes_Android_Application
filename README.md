@@ -23,3 +23,4 @@ o If user check any of the above by name or alphabet every time user see his las
 o It must save the favorite drinks info including drink images in database.
 o This feature must work without using internet connection so keep in mind that image should be load
 without internet.
+<img width="880" alt="Screenshot 2023-11-17 at 6 43 02 AM" src="https://github.com/sameerniazi/Drinks_Recipes_Android_Application/assets/58805395/9583f258-ecc5-4564-940f-c4bb8accd3c0">
